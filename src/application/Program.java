@@ -24,7 +24,7 @@ public class Program {
 		x.b = sc.nextDouble();
 		x.c = sc.nextDouble();
 		
-		System.out.println("Digite os lados do trianculo X: ");
+		System.out.println("Digite os lados do trianculo Y: ");
 		y.a = sc.nextDouble();
 		y.b = sc.nextDouble();
 		y.c = sc.nextDouble();
